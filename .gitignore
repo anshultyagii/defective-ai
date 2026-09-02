@@ -1,5 +1,6 @@
-.venv/
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
+burn-in-ai/data/raw/
+data/raw/
+*.mat
+venv/
+node_modules/
 .DS_Store

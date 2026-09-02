@@ -1,0 +1,1 @@
+{"physical_components": 3, "time_series_observations_approx": 12000, "supports_168h": "NO (Only 3 components, insufficient for ML split)", "target_parameter": "Capacitance_Drop"}

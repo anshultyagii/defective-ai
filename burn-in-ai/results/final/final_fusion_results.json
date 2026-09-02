@@ -1,0 +1,6 @@
+{
+    "final_risk_score": 0.494692358321877,
+    "final_status": "WATCH",
+    "highest_risk_dataset": "IGBT",
+    "explanation": "Multi-component risk aggregation triggered by maximum subsystem risk. (No physical shared-assembly assumption made)."
+}

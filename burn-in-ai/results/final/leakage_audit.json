@@ -1,0 +1,5 @@
+{
+    "component_overlap": "None (Strict GroupShuffleSplit)",
+    "future_target_leakage": "None (168h values excluded from features)",
+    "cross_dataset_leakage": "None (Fused only at risk-score level)"
+}

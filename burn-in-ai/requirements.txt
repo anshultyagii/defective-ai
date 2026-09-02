@@ -1,0 +1,12 @@
+scipy
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+shap
+joblib
+fastapi
+uvicorn
+h5py
+matplotlib
