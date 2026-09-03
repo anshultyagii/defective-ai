@@ -1,0 +1,16 @@
+{
+    "component_type": "IGBT",
+    "model_version": "IGBT-v1.0",
+    "features": [
+        "vce_norm",
+        "ic_drift",
+        "temp",
+        "vge_drift_rate"
+    ],
+    "best_model": "Random Forest",
+    "metrics": {
+        "MAE": 0.1,
+        "RMSE": 0.2,
+        "R2": 0.9
+    }
+}

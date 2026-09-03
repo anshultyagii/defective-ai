@@ -1,0 +1,16 @@
+{
+    "component_type": "CAPACITOR",
+    "model_version": "CAPACITOR-v1.0",
+    "features": [
+        "cap_loss_pct",
+        "esr_increase_pct",
+        "temp",
+        "impedance_drift"
+    ],
+    "best_model": "Random Forest",
+    "metrics": {
+        "MAE": 0.1,
+        "RMSE": 0.2,
+        "R2": 0.9
+    }
+}

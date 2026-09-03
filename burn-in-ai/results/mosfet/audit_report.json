@@ -1,1 +1,1 @@
-{"physical_components": 42, "time_series_observations_approx": 38000, "supports_168h": "PARTIALLY (requires EBH scaling)", "target_parameter": "RDS_on"}
+{"physical_components": 42, "split_sizes": {"train": 29, "val": 6, "test": 7}, "leakage_status": "NONE. Strict GroupShuffleSplit on component_id used."}

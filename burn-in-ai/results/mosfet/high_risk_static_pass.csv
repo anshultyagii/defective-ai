@@ -1,0 +1,2 @@
+component_id,Value_0h,Value_24h,Value_96h,Value_168h,delta_0_24,delta_24_96,slope_0_24,slope_24_96,future_risk_label,oof_anomaly_score,oof_predicted_168h,anomaly_threshold_used,static_status,anomaly_flag,predicted_total_drift,safety_margin,component_risk_score,component_status,reason_codes,dataset
+Test_3,122.45243515214888,4.488087136333562,,,-117.96434801581532,,-4.915181167325638,,1,-0.012797365947090467,22.073762054940246,-0.07631985471350988,PASS,1,17.585674918606685,222.8311082493575,0.36042930062945644,WATCH,HIGH_PEER_DEVIATION,MOSFET

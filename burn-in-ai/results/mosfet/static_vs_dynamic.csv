@@ -1,0 +1,3 @@
+Method,Recall,Accuracy
+Static Baseline,0.9743589743589743,0.9523809523809523
+Dynamic AI Risk,1.0,1.0

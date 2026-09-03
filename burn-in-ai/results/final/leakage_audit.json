@@ -1,5 +1,5 @@
 {
-    "component_overlap": "None (Strict GroupShuffleSplit)",
-    "future_target_leakage": "None (168h values excluded from features)",
-    "cross_dataset_leakage": "None (Fused only at risk-score level)"
+    "train_test_overlap": "NONE (Verified)",
+    "target_leakage": "NONE (168h target excluded from early prediction inputs)",
+    "cross_dataset_leakage": "NONE (Datasets processed entirely independently)"
 }

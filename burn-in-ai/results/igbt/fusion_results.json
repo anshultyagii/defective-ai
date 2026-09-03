@@ -1,1 +1,1 @@
-{"dataset_risk_score": 0.494692358321877, "reject_count": 2}
+{"dataset_name": "IGBT", "component_count": 5, "normal_component_count": 2, "watch_component_count": 0, "reject_component_count": 3, "maximum_component_risk": 0.8, "dataset_risk_score": 0.8}

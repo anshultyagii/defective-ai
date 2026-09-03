@@ -1,1 +1,1 @@
-{"dataset_risk_score": 0.008900183676886778, "reject_count": 1}
+{"dataset_name": "MOSFET", "component_count": 42, "normal_component_count": 2, "watch_component_count": 15, "reject_component_count": 25, "maximum_component_risk": 0.8730713792929021, "mean_component_risk": 0.6048494301710147, "dataset_risk_score": 0.6048494301710147}
